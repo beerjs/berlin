@@ -1,4 +1,4 @@
-# BeerJs
+# BeerJS Berlin
 
 <img src="https://raw.githubusercontent.com/beerjs/berlin/master/assets/bear_with_beer.png" alt="BeerJS Berlin" width="240" height="240" />
 
