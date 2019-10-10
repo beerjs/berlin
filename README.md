@@ -1,6 +1,6 @@
 # BeerJs
 
-![beerjs](bear_with_beer.jpg?raw=true)
+![beerjs](bear_with_beer.png?raw=true)
 
 Usual time: **Wednesday at 8:00 p.m.**
 
