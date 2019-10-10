@@ -1,7 +1,7 @@
-# Welcome to beerjs Berlin 
+# BeerJs
 
-Use the [Issues Area](https://github.com/beerjs/berlin/issues) to make meetup suggestions, or simply to say 'Hi!' 
+![beerjs](bear_with_beer.jpg?raw=true)
 
-We will also manage events with [Meetup.com](http://www.meetup.com/beerjs-berlin) for those of you who aren't using or caring about GitHub (all three of you).
+Usual time: **Wednesday at 8:00 p.m.**
 
-![beerjs](assets/beerjs.png?raw=true)
+[Join us](https://t.me/beerjs_berlin) on Telegram.
